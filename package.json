@@ -1,0 +1,19 @@
+{
+  "name": "js-crash-course",
+  "version": "0.0.0",
+  "description": "* What is HTML? * What is CSS? * What is JavaScript? * What can I _do_ with them?",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TIY-Durham/js-crash-course.git"
+  },
+  "author": "David Rogers <david@theironyard.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/TIY-Durham/js-crash-course/issues"
+  },
+  "homepage": "https://github.com/TIY-Durham/js-crash-course#readme"
+}
