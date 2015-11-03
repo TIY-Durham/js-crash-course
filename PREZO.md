@@ -44,7 +44,7 @@
 
 # What is HTML?
 
-## *H*yper*T*ext *M*arkup *L*anguage
+## HyperText Markup Language
 
 * _HyperText_ — Links to related documents and assets that the browser understands
 * _Markup_ — Special annotations that convey special meaning about otherwise readable content
@@ -73,7 +73,7 @@
 
 # What is CSS?
 
-## *C*ascading *S*tyle *S*heets
+## Cascading Style Sheets
 
 * _Cascading_ — Style definitions are allowed to override one another
 * _Style_ — Formatting of text, color, screen position, layout, and many other _visual_ properties
