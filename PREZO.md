@@ -1,3 +1,5 @@
+![background](TIY-standard-logo.png)
+
 # [fit] JavaScript <br> Crash Course
 
 ## by The Iron Yard ![The Iron Yard logo](http://theironyard.com/images/iron-yard-logo.svg)
@@ -14,10 +16,12 @@
 * [`http://j.mp/al_the_x`](http://j.mp/al_the_x)
 
 ---
+![background](TIY-standard-logo.png)
 
 # What are we talking about?
 
 ---
+![background](TIY-standard-logo.png)
 
 # What are we talking about?
 
@@ -29,10 +33,12 @@
 * etc...
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is HTML?
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is HTML?
 
@@ -43,6 +49,7 @@
 * _Language_ — Vocabulary, grammar, idiomatic usage, pronounciation: a dialect
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is HTML?
 
@@ -55,10 +62,12 @@
 * Maps and Overlays
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is CSS?
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is CSS?
 
@@ -69,6 +78,7 @@
 * _Sheets_ — Separate textual documents utilized by the browser and linked with markup
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is CSS?
 
@@ -78,10 +88,12 @@
 * What's the difference between a [Buick Rendezvous](https://en.wikipedia.org/wiki/Buick_Rendezvous) and a [Pontiac Aztek](https://en.wikipedia.org/wiki/Pontiac_Aztek)?
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is JavaScript?
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is JavaScript?
 
@@ -91,11 +103,10 @@
 * Primarily client-side (in-browser); also available server-side via [Node JS](https://en.wikipedia.org/wiki/Node.js)
 
 ---
+![background](TIY-standard-logo.png)
 
 # What is JavaScript?
 
 ## Part of [a _much_ larger ecosystem](http://j.mp/1gheNTH)... Very daunting.
 
 But what can I _do_ with it?
-
-
