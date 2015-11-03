@@ -5,15 +5,17 @@
 ## by The Iron Yard ![The Iron Yard logo](http://theironyard.com/images/iron-yard-logo.svg)
 
 ---
-
 ![right](manga-david-hires.png)
 
 # Who is this guy?
 
+<hr>
+
 ## David Rogers
 
 * **twitter**: [`@al_the_x`](https://twitter.com/al_the_x)
-* [`http://j.mp/al_the_x`](http://j.mp/al_the_x)
+* **linkedin**: [`althex`](https://linkedin.com/in/althex)
+* **other**: [`http://al-the-x.me`](http://al-the-x.me)
 
 ---
 ![background](TIY-standard-logo.png)
