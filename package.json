@@ -4,7 +4,8 @@
   "description": "* What is HTML? * What is CSS? * What is JavaScript? * What can I _do_ with them?",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files='index.html'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TIY-Durham/js-crash-course/issues"
   },
-  "homepage": "https://github.com/TIY-Durham/js-crash-course#readme"
+  "homepage": "https://github.com/TIY-Durham/js-crash-course#readme",
+  "dependencies": {
+    "browser-sync": "^2.9.11"
+  }
 }
